@@ -7,3 +7,13 @@ python
 # 2. Performance Improvements
 
 # 3. New Features
+
+# --- FOUNDRY v10.2 RESTORATION & EXPANSION ---
+# Changelog
+## v1.0.0
+- Initial release
+
+## v1.1.0
+- Implemented user authentication
+- Developed a robust testing framework
+- Improved code documentation
